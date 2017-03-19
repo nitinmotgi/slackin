@@ -20,10 +20,6 @@
     "SLACK_RESTRICT": {
       "description": "If it's a restricted account or not (default it's false)",
       "required": false
-    },
-    "BADGE_HEIGHT": {
-      "description": "Badge heigh for the svg (eave blank for a normal, with equal the badge width)",
-      "required": false
     }
   }
 }
