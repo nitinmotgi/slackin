@@ -65,6 +65,12 @@ or for the large version, append `?large`:
 <img src="http://slackin.yourhost.com/badge.svg">
 ```
 
+### GitHub Badge
+
+```
+  [![Join the YOUR GROUP](https://GROUP.herokuapp.com/badge.svg)](https://GROUP.herokuapp.com/)
+```  
+
 ### Landing page
 
 [![](https://cldup.com/WIbawiqp0Q.png)](http://slack.socket.io)
